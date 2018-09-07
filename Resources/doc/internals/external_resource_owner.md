@@ -6,7 +6,7 @@ and [`GenericOAuth1ResourceOwner`](https://github.com/hwi/HWIOAuthBundle/blob/ma
 
 This is idyllic because with these ones, you just need to give basically a `client_id`,
 `client_secret` and a few other configuration values and you are up and running with these.
-Furthermore, these Resource Owners implements many useful methods like `refreshAccessToken` or
+Furthermore, these Resource Owners implement many useful methods like `refreshAccessToken` or
 `revokeAccessToken` that might be handy in your projects!
 
 You can even directly rely on our generic Resource Owners in your config, adding 4 more parameters,
